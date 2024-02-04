@@ -8,7 +8,7 @@ This project was started for fun and because skids are mad cringe. Learn to code
 # DO NOT DOWNLOAD OR EXECUTE ANY CODE FROM THE BELOW REPOS ON ANY MACHINE YOU CARE ABOUT!
 
 ***
-**Want to submit a repo to the WALL OF SHAME?** Open a new issue in this repo with a link to the repo and any pertinent details of the dirty deeds it does.
+**Want to submit a repo to the WALL OF SHAME?** [Open a new issue in this repo](https://github.com/ThisRepoIsAVirus/WALL-OF-SHAME/issues/new) with a link to the offending repo and any pertinent details of the dirty deeds it does. Thanks for your help!
 ***
 ### [Discord Tools]
 | **Author**| **Repo Name & Link** | **Type** | **Details** |
